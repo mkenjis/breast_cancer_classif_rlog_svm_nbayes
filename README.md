@@ -1,4 +1,4 @@
-# breast_cancer_linear_regression
+# breast_cancer_classif_rlog_svm_nbayes
 breast cancer linear regression using MLlib
 - Source : UCI Machine Learning Repository 
 - URL : https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
